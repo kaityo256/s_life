@@ -20,4 +20,4 @@ Copyright (C) 2017-2019 Hiroshi Watanabe
 
 このリポジトリに含まれる`s_life.png`及び`s_life.ai`はクリエイティブ・コモンズ 4.0 表示 (CC-BY 4.0) で提供する。
 
-The pictures in this repository are licensed under a Creative Commons Attribution 4.0 International License.
+The pictures in this repository are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
