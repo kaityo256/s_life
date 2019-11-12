@@ -2,11 +2,11 @@
 
 ## 概要
 
-スパコンの一生について以前つぶやきました。
+以前、スパコンの一生についてこんなつぶやきをしました。
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">スパコンがどうやってできるか知らない人が多いみたいなんで図解してみました。 <a href="https://t.co/oIxKw3JF20">pic.twitter.com/oIxKw3JF20</a></p>&mdash; ロボ太 (@kaityo256) <a href="https://twitter.com/kaityo256/status/882186595901689856?ref_src=twsrc%5Etfw">July 4, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[スパコンがどうやってできるか知らない人が多いみたいなんで図解してみました。](https://twitter.com/kaityo256/status/882186595901689856)
 
-画像はこれです。
+図解した画像はこれです。
 
 ![スパコンの一生](s_life.png)
 
